@@ -29,7 +29,7 @@ V= np.diagflat([v(s[i]) for i in range(n)])
 H= V+K
 eval, evec = eig(H)
 
-#Denormalize the vector
+#transpose the vector
 evec = np.transpose(evec)
 
 #Show the plot
