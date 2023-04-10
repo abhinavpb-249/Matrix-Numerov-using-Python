@@ -1,0 +1,13 @@
+V[s_] := Abs[s]; \[Epsilon]m = 20.;
+st = FindRoot[V[s] == \[Epsilon]m, {s, \[Epsilon]m}] [[1, 2]]; 
+ds = 1/ Sqrt[2 \[Epsilon]m];
+n = Round[2 (st/ds + 4  Pi)];
+s = Table [-ds*(n + 1)/2 + ds*i, {i, n}];
+one[n_, d_] :=
+   DiagonalMatrix[1 + 0 Range[n - Abs[d]], d];
+B = (one[n, -1] + 10 one[n, 0] + one[n, 1])/12.;
+A = (one[n, -1] - 2 one[n, 0] + one[n, 1])/ds^2;
+KE = -Inverse[B] . A/2;
+H = KE + DiagonalMatrix[V[s]];
+{eval, evec} = Eigensystem[H];
+ListPlot[Transpose[{s, evec[[-20]]}], Joined -> True]
