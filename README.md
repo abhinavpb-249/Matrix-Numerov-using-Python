@@ -2,6 +2,8 @@
 
 <b>Solving Schrodinger equation using Matrix Nuumerov method in Python</b>
 
+Aim: To plot the stationary state of a quantum system using Python
+
 The Schrödinger equation is a linear partial differential
 equation that governs the wave function of a quantum-
 mechanical system. On applying initial, boundary and
