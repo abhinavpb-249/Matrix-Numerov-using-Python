@@ -42,8 +42,5 @@ module.
 We can do this by first finding the Hamiltonian matrix,
 which is the sum of Potential energy matrix and Kinetic
 energy matrix and taking the Eigen vector of that.
-However, there are some difficulties associated with this
-as numpy automatically normalises the vectors and we
-have to undo that to produce the desired results.
-Finaly a graph is drawn plotting distance on the X-axis and
+Finally a graph is drawn plotting distance on the X-axis and
 wavefunction on the Y-axis.
