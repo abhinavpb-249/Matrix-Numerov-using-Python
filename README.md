@@ -25,7 +25,7 @@ preferred.
 The aim of this project is to make a python code that does
 the same using python programming language.
 
-
+<img src="https://github.com/abhinavpb-249/matrix-numerov/blob/main/plot.png?raw=true">
 
 <b>Theory</b> <br>
 We start by writing down the time-independent
