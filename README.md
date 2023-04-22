@@ -1,6 +1,6 @@
-# matrix-numerov
+# Matrix Numerov method in Python
 
-<b>Solving Schrodinger equation using Matrix Nuumerov method in Python</b>
+<b>Solving Schrodinger equation using Matrix Numerov method in Python</b>
 
 Aim: To plot the stationary state of a quantum system using Python
 
@@ -45,4 +45,4 @@ energy matrix and taking the Eigen vector of that.
 Finally a graph is drawn plotting distance on the X-axis and
 wavefunction on the Y-axis.
 
-More details are provided in the attached file <i> Project_report.pdf </i>
+More details are provided in the attached file <i> Project Report.pdf </i>
