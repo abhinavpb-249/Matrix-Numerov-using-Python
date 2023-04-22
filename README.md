@@ -44,3 +44,5 @@ which is the sum of Potential energy matrix and Kinetic
 energy matrix and taking the Eigen vector of that.
 Finally a graph is drawn plotting distance on the X-axis and
 wavefunction on the Y-axis.
+
+More details are provided in the attached file <i> Project_report.pdf </i>
