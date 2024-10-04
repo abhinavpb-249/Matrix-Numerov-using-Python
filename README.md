@@ -4,6 +4,8 @@
 
 Aim: To plot the stationary state of a quantum system using Python
 
+## Introduction 
+
 The Schrödinger equation is a linear partial differential
 equation that governs the wave function of a quantum-
 mechanical system. On applying initial, boundary and
@@ -45,4 +47,49 @@ energy matrix and taking the Eigen vector of that.
 Finally a graph is drawn plotting distance on the X-axis and
 wavefunction on the Y-axis.
 
+## Schrödinger’s Equation[2]
+Schrodinger's equation is a fundamental equation in
+quantum mechanics that describes the behavior of
+quantum systems, such as atoms and molecules. It is
+named after Erwin Schrodinger, who developed the
+equation in 1925.
+The equation is a partial differential equation that relates
+the wave function of a quantum system to its energy. The
+wave function is a mathematical function that describes
+the state of a system, and it contains information about the
+probability of finding a particle at a particular location.
+The Schrödinger equation tells us how this wave function
+evolves over time, and it allows us to predict the behavior
+of quantum systems.
+The Schrödinger equation is a linear equation, which
+means that if we have two solutions, we can add them
+together to get another solution. This property is essential
+in quantum mechanics because it allows us to use
+superposition, which is a fundamental concept in quantum
+theory. Superposition means that a quantum particle can
+exist in multiple states simultaneously. For example, an
+electron can be in a state where it is spinning clockwise
+and counterclockwise at the same time.
+The Schrödinger equation has many applications in
+physics, chemistry, and engineering. It is used to describe
+the behavior of atoms, molecules, and other quantum
+systems. The equation is also used to calculate the energy
+levels and wave functions of these systems, which is
+essential in understanding chemical reactions, the
+behavior of materials, and the functioning of electronic
+devices.
+Time-Dependent Schrodinger’s Equation
+The time-dependent Schrodinger equation is a
+fundamental equation in quantum mechanics that
+describes the time evolution of a quantum system. It is a
+partial differential equation that describes how the wave
+function of a system changes with time. The equation is
+written in terms of the wave function Ψ, which represents
+the probability amplitude of finding a particle in a
+particular position and time.
+The time-dependent Schrodinger equation is given by:
+![Screenshot_2024-10-04_21-57-07](https://github.com/user-attachments/assets/6e0ee915-4fa8-4cf7-99c0-8520e5822f9c)
+
+
 More details are provided in the attached file <i> Project Report.pdf </i>
+ 
