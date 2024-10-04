@@ -90,6 +90,42 @@ particular position and time.
 The time-dependent Schrodinger equation is given by:
 ![Screenshot_2024-10-04_21-57-07](https://github.com/user-attachments/assets/6e0ee915-4fa8-4cf7-99c0-8520e5822f9c)
 
+The time-dependent Schrodinger equation is a cornerstone
+of quantum mechanics, as it provides a way to calculate
+the time evolution of quantum systems. It has been used to
+describe a wide range of physical phenomena, including
+the behavior of atoms, molecules, and solid-state
+materials. The solution to the time-dependent Schrodinger
+equation provides information about the probability of
+finding a particle in a particular position and time, as well
+as the energy of the system.
+Time-Independent Schrodinger’s Equation[3]
+The time-independent Schrodinger equation is a
+fundamental equation in quantum mechanics that
+describes the stationary states of a quantum system. It is a
+partial differential equation that describes the allowed
+energy states of a quantum system. The equation is
+written in terms of the wave function Ψ, which represents
+the probability amplitude of finding a particle in a
+particular position.
+The time-independent Schrodinger equation is given by:
+
+![Screenshot_2024-10-04_21-59-36](https://github.com/user-attachments/assets/da99fa36-77fb-4ede-96dc-1e488635f8c6)
+
+The time-independent Schrodinger equation is an
+eigenvalue equation, which means that the wave function
+Ψ is an eigenvector of the Hamiltonian operator H with
+corresponding eigenvalue E. The solution to the timeindependent Schrodinger equation provides information
+about the allowed energy levels of a quantum system.
+The time-independent Schrodinger equation is an
+important equation in quantum mechanics, as it provides a
+way to calculate the energy levels of a quantum system. It
+has been used to describe a wide range of physical
+phenomena, including the behavior of atoms, molecules,
+and solid-state materials. The solution to the timeindependent Schrodinger equation provides information
+about the allowed energy levels of a quantum system,
+which can be used to predict the behavior of the system in
+various physical situations.
 
 More details are provided in the attached file <i> Project Report.pdf </i>
  
