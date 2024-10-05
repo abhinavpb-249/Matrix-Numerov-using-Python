@@ -2,6 +2,7 @@
 A Python implementation of the Matrix Numerov method, a powerful numerical technique used to solve the Schrödinger equation and plot wavefunctions in quantum mechanics.
 
 <img src="https://github.com/abhinavpb-249/matrix-numerov/blob/main/plot.png?raw=true" alt="wavefunction for potentential of modulus function">
+<i>Figure 1: Wavefunction of a particle in a modulus function potential </i>
 
 ## Overview
 
@@ -38,7 +39,9 @@ python numerov.py
 ```
 Adjust parameters in the script to explore different potentials and boundary conditions.
 
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details
 
- 
-More details are provided in the attached file <i> Project Report.pdf </i>
+--- 
+More details are provided in the attached file [Project Report.pdf](Project%20Report.pdf)  
  
